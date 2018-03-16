@@ -39,6 +39,8 @@ Public Lectures are held in Lecture Theatre 1 of the Maths Institute, on Tuesday
 ## 1. Lecture 1a - Introduction [Phil Blunsom]
 This lecture introduces the course and motivates why it is interesting to study language processing using Deep Learning techniques.
 
+#Status = Watching
+
 [[slides]](Lecture%201a%20-%20Introduction.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_1a_intro.mp4)
 
